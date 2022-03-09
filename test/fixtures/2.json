@@ -1,0 +1,74 @@
+{
+  "elements": [
+    {
+      "id": "3069564629",
+      "lat": "-15.7775569",
+      "lon": "-47.8830204",
+      "version": "3",
+      "timestamp": "2022-03-07T22:43:51Z",
+      "changeset": "118215482",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "3069564629",
+        "lat": "-15.7775569",
+        "lon": "-47.8830204",
+        "version": "2",
+        "timestamp": "2014-12-23T10:53:23Z",
+        "changeset": "27647880",
+        "uid": "360183",
+        "user": "wille",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "name": "Bike Brothers",
+          "opening_hours": "Mo-Fr 08:00-19:00;Sa 08:00-14:00",
+          "phone": "+55 61 33269170",
+          "shop": "bicycle"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "name": "B2 Bike",
+        "opening_hours": "Mo-Fr 08:00-19:00;Sa 08:00-14:00",
+        "phone": "+55 61 33269170",
+        "shop": "bicycle"
+      }
+    }
+  ],
+  "metadata": {
+    "id": "118215482",
+    "created_at": "2022-03-07T22:43:50Z",
+    "closed_at": "2022-03-07T22:43:53Z",
+    "open": "false",
+    "user": "wille",
+    "uid": "360183",
+    "min_lat": "-15.7775569",
+    "min_lon": "-47.8830204",
+    "max_lat": "-15.7775569",
+    "max_lon": "-47.8830204",
+    "comments_count": "0",
+    "changes_count": "1",
+    "tag": [
+      {
+        "k": "created_by",
+        "v": "Organic Maps android 2022.02.19-1-Google"
+      },
+      {
+        "k": "comment",
+        "v": "Updated a bicycle shop"
+      },
+      {
+        "k": "bundle_id",
+        "v": "app.organicmaps"
+      }
+    ],
+    "bbox": {
+      "left": "-47.8830204",
+      "bottom": "-15.7775569",
+      "right": "-47.8830204",
+      "top": "-15.7775569"
+    }
+  }
+}

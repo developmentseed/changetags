@@ -1,0 +1,2888 @@
+{
+  "elements": [
+    {
+      "id": "681224467",
+      "version": "2",
+      "timestamp": "2020-03-16T04:14:20Z",
+      "changeset": "82235777",
+      "uid": "9446673",
+      "user": "LakeComo",
+      "old": {
+        "id": "681224467",
+        "version": "2",
+        "timestamp": "2020-03-16T04:14:20Z",
+        "changeset": "82235777",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "highway": "service"
+        },
+        "nodes": [
+          {
+            "ref": "7298140308",
+            "lat": "-15.8020918",
+            "lon": "-47.8745967"
+          },
+          {
+            "ref": "6379249179",
+            "lat": "-15.8022107",
+            "lon": "-47.8742968"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "service"
+      },
+      "nodes": [
+        {
+          "ref": "7298140308",
+          "lat": "-15.8020918",
+          "lon": "-47.8745967"
+        },
+        {
+          "ref": "6379249179",
+          "lat": "-15.8021957",
+          "lon": "-47.8742905"
+        }
+      ]
+    },
+    {
+      "id": "4695312390",
+      "lat": "-15.8033904",
+      "lon": "-47.8740694",
+      "version": "2",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4695312390",
+        "lat": "-15.8033015",
+        "lon": "-47.8746027",
+        "version": "1",
+        "timestamp": "2017-02-20T12:23:46Z",
+        "changeset": "46242572",
+        "uid": "5352007",
+        "user": "Emmanuel Câmara Cruz",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Restaurante Consulado",
+          "name:en": "Consulate restaurant",
+          "name:pt": "Restaurante Consulado"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Restaurante Consulado",
+        "name:en": "Consulate restaurant",
+        "name:pt": "Restaurante Consulado"
+      }
+    },
+    {
+      "id": "6379249179",
+      "lat": "-15.8021957",
+      "lon": "-47.8742905",
+      "version": "2",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "6379249179",
+        "lat": "-15.8022107",
+        "lon": "-47.8742968",
+        "version": "1",
+        "timestamp": "2019-04-02T18:54:40Z",
+        "changeset": "68808481",
+        "uid": "9086381",
+        "user": "Prateek P Joshi",
+        "action": "modify",
+        "type": "node",
+        "tags": {}
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "entrance": "yes"
+      }
+    },
+    {
+      "id": "9562611331",
+      "lat": "-15.8036543",
+      "lon": "-47.8738019",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {
+        "entrance": "main"
+      }
+    },
+    {
+      "id": "9562611332",
+      "lat": "-15.8034072",
+      "lon": "-47.8737446",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611333",
+      "lat": "-15.8037526",
+      "lon": "-47.8738578",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611334",
+      "lat": "-15.8037174",
+      "lon": "-47.8739694",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611335",
+      "lat": "-15.8036420",
+      "lon": "-47.8739415",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611336",
+      "lat": "-15.8036777",
+      "lon": "-47.8738333",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611337",
+      "lat": "-15.8036509",
+      "lon": "-47.8738245",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611338",
+      "lat": "-15.8036000",
+      "lon": "-47.8740705",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611339",
+      "lat": "-15.8020120",
+      "lon": "-47.8743755",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611340",
+      "lat": "-15.8015760",
+      "lon": "-47.8742326",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9562611341",
+      "lat": "-15.8035816",
+      "lon": "-47.8750325",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "id": "9562611342",
+      "lat": "-15.8034223",
+      "lon": "-47.8746735",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "id": "9562611343",
+      "lat": "-15.8035145",
+      "lon": "-47.8742796",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "id": "9562611344",
+      "lat": "-15.8033116",
+      "lon": "-47.8742204",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "id": "32532534",
+      "version": "11",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "32532534",
+        "version": "10",
+        "timestamp": "2021-08-20T04:16:27Z",
+        "changeset": "109961361",
+        "uid": "10210124",
+        "user": "Podil",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "no",
+          "highway": "tertiary",
+          "lanes": "2",
+          "name": "SAF Quadra 7"
+        },
+        "nodes": [
+          {
+            "ref": "1938349404",
+            "lat": "-15.8043709",
+            "lon": "-47.8705852"
+          },
+          {
+            "ref": "365861103",
+            "lat": "-15.8048751",
+            "lon": "-47.8707556"
+          },
+          {
+            "ref": "7298470341",
+            "lat": "-15.8050579",
+            "lon": "-47.8708143"
+          },
+          {
+            "ref": "9021658464",
+            "lat": "-15.8060984",
+            "lon": "-47.8711586"
+          },
+          {
+            "ref": "365861104",
+            "lat": "-15.8061319",
+            "lon": "-47.8711709"
+          },
+          {
+            "ref": "365861105",
+            "lat": "-15.8070220",
+            "lon": "-47.8714779"
+          },
+          {
+            "ref": "365861106",
+            "lat": "-15.8075700",
+            "lon": "-47.8716626"
+          },
+          {
+            "ref": "365861108",
+            "lat": "-15.8078284",
+            "lon": "-47.8717533"
+          },
+          {
+            "ref": "365861109",
+            "lat": "-15.8081070",
+            "lon": "-47.8718340"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "SAF Quadra 7",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938349404",
+          "lat": "-15.8043709",
+          "lon": "-47.8705852"
+        },
+        {
+          "ref": "365861103",
+          "lat": "-15.8048751",
+          "lon": "-47.8707556"
+        },
+        {
+          "ref": "7298470341",
+          "lat": "-15.8050579",
+          "lon": "-47.8708143"
+        },
+        {
+          "ref": "9021658464",
+          "lat": "-15.8060984",
+          "lon": "-47.8711586"
+        },
+        {
+          "ref": "365861104",
+          "lat": "-15.8061319",
+          "lon": "-47.8711709"
+        },
+        {
+          "ref": "365861105",
+          "lat": "-15.8070220",
+          "lon": "-47.8714779"
+        },
+        {
+          "ref": "365861106",
+          "lat": "-15.8075700",
+          "lon": "-47.8716626"
+        },
+        {
+          "ref": "365861108",
+          "lat": "-15.8078284",
+          "lon": "-47.8717533"
+        },
+        {
+          "ref": "365861109",
+          "lat": "-15.8081070",
+          "lon": "-47.8718340"
+        }
+      ]
+    },
+    {
+      "id": "141450110",
+      "version": "17",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "141450110",
+        "version": "16",
+        "timestamp": "2022-02-05T14:06:05Z",
+        "changeset": "117046111",
+        "uid": "6466263",
+        "user": "zorglubu",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "addr:city": "Brasília",
+          "addr:housenumber": "3",
+          "addr:postcode": "70403-900",
+          "addr:street": "SES - Quadra 801",
+          "country": "US",
+          "diplomatic": "embassy",
+          "embassy": "yes",
+          "name": "Embaixada dos Estados Unidos da América",
+          "name:ar": "سفارة الولايات المتحدة الأمريكية",
+          "name:en": "Embassy of United States of America",
+          "name:es": "Embajada de los Estados Unidos de América",
+          "name:fr": "Ambassade des États-Unis d'Amérique",
+          "name:id": "Kedutaan Besar Amerika Serikat",
+          "office": "diplomatic",
+          "phone": "+55 61 3312 7000",
+          "target": "BR",
+          "website": "https://br.usembassy.gov",
+          "wikidata": "Q10272292",
+          "wikipedia": "pt:Embaixada dos Estados Unidos em Brasília"
+        },
+        "nodes": [
+          {
+            "ref": "2506171302",
+            "lat": "-15.8057608",
+            "lon": "-47.8720379"
+          },
+          {
+            "ref": "1548259796",
+            "lat": "-15.8050565",
+            "lon": "-47.8742578"
+          },
+          {
+            "ref": "1548259785",
+            "lat": "-15.8033376",
+            "lon": "-47.8736989"
+          },
+          {
+            "ref": "1548259787",
+            "lat": "-15.8040213",
+            "lon": "-47.8714459"
+          },
+          {
+            "ref": "2506171298",
+            "lat": "-15.8046003",
+            "lon": "-47.8716415"
+          },
+          {
+            "ref": "2506171302",
+            "lat": "-15.8057608",
+            "lon": "-47.8720379"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "addr:city": "Brasília",
+        "addr:housenumber": "3",
+        "addr:postcode": "70403-900",
+        "addr:street": "SES - Quadra 801",
+        "country": "US",
+        "diplomatic": "embassy",
+        "embassy": "yes",
+        "name": "Embaixada dos Estados Unidos da América",
+        "name:ar": "سفارة الولايات المتحدة الأمريكية",
+        "name:en": "Embassy of United States of America",
+        "name:es": "Embajada de los Estados Unidos de América",
+        "name:fr": "Ambassade des États-Unis d'Amérique",
+        "name:id": "Kedutaan Besar Amerika Serikat",
+        "office": "diplomatic",
+        "phone": "+55 61 3312 7000",
+        "target": "BR",
+        "website": "https://br.usembassy.gov",
+        "wikidata": "Q10272292",
+        "wikipedia": "pt:Embaixada dos Estados Unidos em Brasília"
+      },
+      "nodes": [
+        {
+          "ref": "2506171302",
+          "lat": "-15.8057608",
+          "lon": "-47.8720379"
+        },
+        {
+          "ref": "1548259796",
+          "lat": "-15.8050565",
+          "lon": "-47.8742578"
+        },
+        {
+          "ref": "9562611331",
+          "lat": "-15.8036543",
+          "lon": "-47.8738019"
+        },
+        {
+          "ref": "1548259785",
+          "lat": "-15.8033376",
+          "lon": "-47.8736989"
+        },
+        {
+          "ref": "1548259787",
+          "lat": "-15.8040213",
+          "lon": "-47.8714459"
+        },
+        {
+          "ref": "2506171298",
+          "lat": "-15.8046003",
+          "lon": "-47.8716415"
+        },
+        {
+          "ref": "2506171302",
+          "lat": "-15.8057608",
+          "lon": "-47.8720379"
+        }
+      ]
+    },
+    {
+      "id": "141497719",
+      "version": "15",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "141497719",
+        "version": "14",
+        "timestamp": "2022-02-05T14:06:05Z",
+        "changeset": "117046111",
+        "uid": "6466263",
+        "user": "zorglubu",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "addr:city": "Brasília",
+          "addr:housenumber": "02",
+          "addr:postcode": "70402-900",
+          "addr:street": "SES - Quadra 801",
+          "country": "PT",
+          "diplomatic": "embassy",
+          "embassy": "yes",
+          "name": "Embaixada de Portugal",
+          "name:en": "Embassy of Portugal",
+          "name:es": "Embajada de Portugal",
+          "name:fr": "Ambassade du Portugal",
+          "office": "diplomatic",
+          "phone": "+55 61 30329600",
+          "target": "BR",
+          "website": "https://brasilia.embaixadaportugal.mne.gov.pt",
+          "wikidata": "Q18473943",
+          "wikipedia": "pt:Embaixada de Portugal em Brasília"
+        },
+        "nodes": [
+          {
+            "ref": "1548725000",
+            "lat": "-15.8022553",
+            "lon": "-47.8718426"
+          },
+          {
+            "ref": "1548725005",
+            "lat": "-15.8015578",
+            "lon": "-47.8740748"
+          },
+          {
+            "ref": "2507826924",
+            "lat": "-15.8023505",
+            "lon": "-47.8743428"
+          },
+          {
+            "ref": "1548725012",
+            "lat": "-15.8028447",
+            "lon": "-47.8745099"
+          },
+          {
+            "ref": "1548725026",
+            "lat": "-15.8035433",
+            "lon": "-47.8722805"
+          },
+          {
+            "ref": "1548725000",
+            "lat": "-15.8022553",
+            "lon": "-47.8718426"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "addr:city": "Brasília",
+        "addr:housenumber": "02",
+        "addr:postcode": "70402-900",
+        "addr:street": "SES - Quadra 801",
+        "country": "PT",
+        "diplomatic": "embassy",
+        "embassy": "yes",
+        "name": "Embaixada de Portugal",
+        "name:en": "Embassy of Portugal",
+        "name:es": "Embajada de Portugal",
+        "name:fr": "Ambassade du Portugal",
+        "office": "diplomatic",
+        "phone": "+55 61 30329600",
+        "target": "BR",
+        "website": "https://brasilia.embaixadaportugal.mne.gov.pt",
+        "wikidata": "Q18473943",
+        "wikipedia": "pt:Embaixada de Portugal em Brasília"
+      },
+      "nodes": [
+        {
+          "ref": "1548725000",
+          "lat": "-15.8022553",
+          "lon": "-47.8718426"
+        },
+        {
+          "ref": "1548725005",
+          "lat": "-15.8015578",
+          "lon": "-47.8740748"
+        },
+        {
+          "ref": "6379249179",
+          "lat": "-15.8021957",
+          "lon": "-47.8742905"
+        },
+        {
+          "ref": "2507826924",
+          "lat": "-15.8023505",
+          "lon": "-47.8743428"
+        },
+        {
+          "ref": "1548725012",
+          "lat": "-15.8028447",
+          "lon": "-47.8745099"
+        },
+        {
+          "ref": "1548725026",
+          "lat": "-15.8035433",
+          "lon": "-47.8722805"
+        },
+        {
+          "ref": "1548725000",
+          "lat": "-15.8022553",
+          "lon": "-47.8718426"
+        }
+      ]
+    },
+    {
+      "id": "141497722",
+      "version": "4",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "141497722",
+        "version": "3",
+        "timestamp": "2020-07-18T09:27:50Z",
+        "changeset": "88171413",
+        "uid": "519916",
+        "user": "googlenaut",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "name": "Conferência Nacional dos Bispos do Brasil",
+          "landuse": "religious"
+        },
+        "nodes": [
+          {
+            "ref": "1548725015",
+            "lat": "-15.8015270",
+            "lon": "-47.8762010"
+          },
+          {
+            "ref": "7726190586",
+            "lat": "-15.8019397",
+            "lon": "-47.8748775"
+          },
+          {
+            "ref": "7726194386",
+            "lat": "-15.8026339",
+            "lon": "-47.8751242"
+          },
+          {
+            "ref": "7726194285",
+            "lat": "-15.8027243",
+            "lon": "-47.8752342"
+          },
+          {
+            "ref": "7726190587",
+            "lat": "-15.8027450",
+            "lon": "-47.8753737"
+          },
+          {
+            "ref": "7726190588",
+            "lat": "-15.8027346",
+            "lon": "-47.8758028"
+          },
+          {
+            "ref": "7726194385",
+            "lat": "-15.8026469",
+            "lon": "-47.8761998"
+          },
+          {
+            "ref": "1548725007",
+            "lat": "-15.8024941",
+            "lon": "-47.8765279"
+          },
+          {
+            "ref": "1548725015",
+            "lat": "-15.8015270",
+            "lon": "-47.8762010"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "landuse": "religious",
+        "name": "Conferência Nacional dos Bispos do Brasil",
+        "short_name": "CNBB",
+        "wikidata": "Q3686567",
+        "wikipedia": "pt:Conferência Nacional dos Bispos do Brasil"
+      },
+      "nodes": [
+        {
+          "ref": "1548725015",
+          "lat": "-15.8015270",
+          "lon": "-47.8762010"
+        },
+        {
+          "ref": "7726190586",
+          "lat": "-15.8019397",
+          "lon": "-47.8748775"
+        },
+        {
+          "ref": "7726194386",
+          "lat": "-15.8026339",
+          "lon": "-47.8751242"
+        },
+        {
+          "ref": "7726194285",
+          "lat": "-15.8027243",
+          "lon": "-47.8752342"
+        },
+        {
+          "ref": "7726190587",
+          "lat": "-15.8027450",
+          "lon": "-47.8753737"
+        },
+        {
+          "ref": "7726190588",
+          "lat": "-15.8027346",
+          "lon": "-47.8758028"
+        },
+        {
+          "ref": "7726194385",
+          "lat": "-15.8026469",
+          "lon": "-47.8761998"
+        },
+        {
+          "ref": "1548725007",
+          "lat": "-15.8024941",
+          "lon": "-47.8765279"
+        },
+        {
+          "ref": "1548725015",
+          "lat": "-15.8015270",
+          "lon": "-47.8762010"
+        }
+      ]
+    },
+    {
+      "id": "183462739",
+      "version": "13",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183462739",
+        "version": "12",
+        "timestamp": "2021-03-15T19:33:15Z",
+        "changeset": "101071899",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "lanes": "1",
+          "name": "SES - Quadra 801"
+        },
+        "nodes": [
+          {
+            "ref": "1938343496",
+            "lat": "-15.8030863",
+            "lon": "-47.8750981"
+          },
+          {
+            "ref": "7297928168",
+            "lat": "-15.8031546",
+            "lon": "-47.8750679"
+          },
+          {
+            "ref": "7297928169",
+            "lat": "-15.8031927",
+            "lon": "-47.8750585"
+          },
+          {
+            "ref": "7297928170",
+            "lat": "-15.8032514",
+            "lon": "-47.8750592"
+          },
+          {
+            "ref": "7297928163",
+            "lat": "-15.8032719",
+            "lon": "-47.8750613"
+          },
+          {
+            "ref": "7297928171",
+            "lat": "-15.8033211",
+            "lon": "-47.8750665"
+          },
+          {
+            "ref": "7297928172",
+            "lat": "-15.8033927",
+            "lon": "-47.8750833"
+          },
+          {
+            "ref": "142194043",
+            "lat": "-15.8034392",
+            "lon": "-47.8751001"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "SES - Quadra 801",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343496",
+          "lat": "-15.8030863",
+          "lon": "-47.8750981"
+        },
+        {
+          "ref": "7297928168",
+          "lat": "-15.8031546",
+          "lon": "-47.8750679"
+        },
+        {
+          "ref": "7297928169",
+          "lat": "-15.8031927",
+          "lon": "-47.8750585"
+        },
+        {
+          "ref": "7297928170",
+          "lat": "-15.8032514",
+          "lon": "-47.8750592"
+        },
+        {
+          "ref": "7297928163",
+          "lat": "-15.8032719",
+          "lon": "-47.8750613"
+        },
+        {
+          "ref": "7297928171",
+          "lat": "-15.8033211",
+          "lon": "-47.8750665"
+        },
+        {
+          "ref": "7297928172",
+          "lat": "-15.8033927",
+          "lon": "-47.8750833"
+        },
+        {
+          "ref": "142194043",
+          "lat": "-15.8034392",
+          "lon": "-47.8751001"
+        }
+      ]
+    },
+    {
+      "id": "183462743",
+      "version": "14",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183462743",
+        "version": "13",
+        "timestamp": "2020-03-16T04:14:20Z",
+        "changeset": "82235777",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "name": "SES - Quadra 801",
+          "highway": "tertiary"
+        },
+        "nodes": [
+          {
+            "ref": "7298140303",
+            "lat": "-15.8036715",
+            "lon": "-47.8747943"
+          },
+          {
+            "ref": "1387106641",
+            "lat": "-15.8038405",
+            "lon": "-47.8743196"
+          },
+          {
+            "ref": "2698038046",
+            "lat": "-15.8038831",
+            "lon": "-47.8742686"
+          },
+          {
+            "ref": "7297928161",
+            "lat": "-15.8039230",
+            "lon": "-47.8742526"
+          },
+          {
+            "ref": "1387106685",
+            "lat": "-15.8039566",
+            "lon": "-47.8742391"
+          },
+          {
+            "ref": "7262744286",
+            "lat": "-15.8040353",
+            "lon": "-47.8742337"
+          },
+          {
+            "ref": "7262744287",
+            "lat": "-15.8044083",
+            "lon": "-47.8743397"
+          },
+          {
+            "ref": "7265052578",
+            "lat": "-15.8049429",
+            "lon": "-47.8745115"
+          },
+          {
+            "ref": "7265096097",
+            "lat": "-15.8050203",
+            "lon": "-47.8745363"
+          },
+          {
+            "ref": "2835509044",
+            "lat": "-15.8051051",
+            "lon": "-47.8745636"
+          },
+          {
+            "ref": "7265096104",
+            "lat": "-15.8057810",
+            "lon": "-47.8747885"
+          },
+          {
+            "ref": "7262945266",
+            "lat": "-15.8059516",
+            "lon": "-47.8748453"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "name": "SES - Quadra 801",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "7298140303",
+          "lat": "-15.8036715",
+          "lon": "-47.8747943"
+        },
+        {
+          "ref": "1387106641",
+          "lat": "-15.8038405",
+          "lon": "-47.8743196"
+        },
+        {
+          "ref": "2698038046",
+          "lat": "-15.8038831",
+          "lon": "-47.8742686"
+        },
+        {
+          "ref": "7297928161",
+          "lat": "-15.8039230",
+          "lon": "-47.8742526"
+        },
+        {
+          "ref": "1387106685",
+          "lat": "-15.8039566",
+          "lon": "-47.8742391"
+        },
+        {
+          "ref": "7262744286",
+          "lat": "-15.8040353",
+          "lon": "-47.8742337"
+        },
+        {
+          "ref": "7262744287",
+          "lat": "-15.8044083",
+          "lon": "-47.8743397"
+        },
+        {
+          "ref": "7265052578",
+          "lat": "-15.8049429",
+          "lon": "-47.8745115"
+        },
+        {
+          "ref": "7265096097",
+          "lat": "-15.8050203",
+          "lon": "-47.8745363"
+        },
+        {
+          "ref": "2835509044",
+          "lat": "-15.8051051",
+          "lon": "-47.8745636"
+        },
+        {
+          "ref": "7265096104",
+          "lat": "-15.8057810",
+          "lon": "-47.8747885"
+        },
+        {
+          "ref": "7262945266",
+          "lat": "-15.8059516",
+          "lon": "-47.8748453"
+        }
+      ]
+    },
+    {
+      "id": "183462748",
+      "version": "13",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183462748",
+        "version": "12",
+        "timestamp": "2021-03-15T18:07:50Z",
+        "changeset": "101068373",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "lanes": "2",
+          "name": "SAFS"
+        },
+        "nodes": [
+          {
+            "ref": "1387127370",
+            "lat": "-15.8085653",
+            "lon": "-47.8687611"
+          },
+          {
+            "ref": "8521721797",
+            "lat": "-15.8084847",
+            "lon": "-47.8687330"
+          },
+          {
+            "ref": "1938484705",
+            "lat": "-15.8073536",
+            "lon": "-47.8683557"
+          },
+          {
+            "ref": "1554177982",
+            "lat": "-15.8064874",
+            "lon": "-47.8680485"
+          },
+          {
+            "ref": "365859763",
+            "lat": "-15.8063270",
+            "lon": "-47.8679964"
+          },
+          {
+            "ref": "7262929208",
+            "lat": "-15.8062220",
+            "lon": "-47.8679625"
+          },
+          {
+            "ref": "7262646226",
+            "lat": "-15.8053561",
+            "lon": "-47.8676751"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "SAFS",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1387127370",
+          "lat": "-15.8085653",
+          "lon": "-47.8687611"
+        },
+        {
+          "ref": "8521721797",
+          "lat": "-15.8084847",
+          "lon": "-47.8687330"
+        },
+        {
+          "ref": "1938484705",
+          "lat": "-15.8073536",
+          "lon": "-47.8683557"
+        },
+        {
+          "ref": "1554177982",
+          "lat": "-15.8064874",
+          "lon": "-47.8680485"
+        },
+        {
+          "ref": "365859763",
+          "lat": "-15.8063270",
+          "lon": "-47.8679964"
+        },
+        {
+          "ref": "7262929208",
+          "lat": "-15.8062220",
+          "lon": "-47.8679625"
+        },
+        {
+          "ref": "7262646226",
+          "lat": "-15.8053561",
+          "lon": "-47.8676751"
+        }
+      ]
+    },
+    {
+      "id": "183462751",
+      "version": "7",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183462751",
+        "version": "6",
+        "timestamp": "2021-03-15T18:27:01Z",
+        "changeset": "101069434",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "secondary_link",
+          "lanes": "1"
+        },
+        "nodes": [
+          {
+            "ref": "1938343727",
+            "lat": "-15.8032121",
+            "lon": "-47.8742833"
+          },
+          {
+            "ref": "1938343857",
+            "lat": "-15.8031734",
+            "lon": "-47.8742243"
+          },
+          {
+            "ref": "1938343570",
+            "lat": "-15.8031321",
+            "lon": "-47.8741908"
+          },
+          {
+            "ref": "7262646225",
+            "lat": "-15.8030727",
+            "lon": "-47.8741868"
+          },
+          {
+            "ref": "1938343557",
+            "lat": "-15.8030121",
+            "lon": "-47.8742056"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "secondary_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343727",
+          "lat": "-15.8032121",
+          "lon": "-47.8742833"
+        },
+        {
+          "ref": "1938343857",
+          "lat": "-15.8031734",
+          "lon": "-47.8742243"
+        },
+        {
+          "ref": "1938343570",
+          "lat": "-15.8031321",
+          "lon": "-47.8741908"
+        },
+        {
+          "ref": "7262646225",
+          "lat": "-15.8030727",
+          "lon": "-47.8741868"
+        },
+        {
+          "ref": "1938343557",
+          "lat": "-15.8030121",
+          "lon": "-47.8742056"
+        }
+      ]
+    },
+    {
+      "id": "183462752",
+      "version": "11",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183462752",
+        "version": "10",
+        "timestamp": "2021-03-15T19:00:44Z",
+        "changeset": "101070758",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "surface": "paved",
+          "highway": "secondary_link",
+          "lanes": "1",
+          "maxspeed": "60",
+          "oneway": "yes"
+        },
+        "nodes": [
+          {
+            "ref": "1938343768",
+            "lat": "-15.8028101",
+            "lon": "-47.8757948"
+          },
+          {
+            "ref": "7262646223",
+            "lat": "-15.8028591",
+            "lon": "-47.8758484"
+          },
+          {
+            "ref": "1938343482",
+            "lat": "-15.8028914",
+            "lon": "-47.8758719"
+          },
+          {
+            "ref": "7262646224",
+            "lat": "-15.8029320",
+            "lon": "-47.8758873"
+          },
+          {
+            "ref": "1938343585",
+            "lat": "-15.8029740",
+            "lon": "-47.8758819"
+          },
+          {
+            "ref": "1938343750",
+            "lat": "-15.8030262",
+            "lon": "-47.8758672"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "secondary_link",
+        "lanes": "1",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343768",
+          "lat": "-15.8028101",
+          "lon": "-47.8757948"
+        },
+        {
+          "ref": "7262646223",
+          "lat": "-15.8028591",
+          "lon": "-47.8758484"
+        },
+        {
+          "ref": "1938343482",
+          "lat": "-15.8028914",
+          "lon": "-47.8758719"
+        },
+        {
+          "ref": "7262646224",
+          "lat": "-15.8029320",
+          "lon": "-47.8758873"
+        },
+        {
+          "ref": "1938343585",
+          "lat": "-15.8029740",
+          "lon": "-47.8758819"
+        },
+        {
+          "ref": "1938343750",
+          "lat": "-15.8030262",
+          "lon": "-47.8758672"
+        }
+      ]
+    },
+    {
+      "id": "183474575",
+      "version": "7",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183474575",
+        "version": "6",
+        "timestamp": "2021-03-15T18:07:50Z",
+        "changeset": "101068373",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "secondary_link",
+          "lanes": "2"
+        },
+        "nodes": [
+          {
+            "ref": "1938484741",
+            "lat": "-15.8062077",
+            "lon": "-47.8648393"
+          },
+          {
+            "ref": "7262646234",
+            "lat": "-15.8061742",
+            "lon": "-47.8647877"
+          },
+          {
+            "ref": "7262646233",
+            "lat": "-15.8061245",
+            "lon": "-47.8647454"
+          },
+          {
+            "ref": "1938484735",
+            "lat": "-15.8060522",
+            "lon": "-47.8647367"
+          },
+          {
+            "ref": "1938343798",
+            "lat": "-15.8059877",
+            "lon": "-47.8647575"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "secondary_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938484741",
+          "lat": "-15.8062077",
+          "lon": "-47.8648393"
+        },
+        {
+          "ref": "7262646234",
+          "lat": "-15.8061742",
+          "lon": "-47.8647877"
+        },
+        {
+          "ref": "7262646233",
+          "lat": "-15.8061245",
+          "lon": "-47.8647454"
+        },
+        {
+          "ref": "1938484735",
+          "lat": "-15.8060522",
+          "lon": "-47.8647367"
+        },
+        {
+          "ref": "1938343798",
+          "lat": "-15.8059877",
+          "lon": "-47.8647575"
+        }
+      ]
+    },
+    {
+      "id": "183474581",
+      "version": "8",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183474581",
+        "version": "7",
+        "timestamp": "2021-03-15T18:03:05Z",
+        "changeset": "101068151",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "lanes": "2",
+          "name": "SAFS"
+        },
+        "nodes": [
+          {
+            "ref": "1938343713",
+            "lat": "-15.8052354",
+            "lon": "-47.8679721"
+          },
+          {
+            "ref": "7262929203",
+            "lat": "-15.8052819",
+            "lon": "-47.8679325"
+          },
+          {
+            "ref": "1938484750",
+            "lat": "-15.8053257",
+            "lon": "-47.8679119"
+          },
+          {
+            "ref": "7262929205",
+            "lat": "-15.8053638",
+            "lon": "-47.8679064"
+          },
+          {
+            "ref": "1938484700",
+            "lat": "-15.8054018",
+            "lon": "-47.8679038"
+          },
+          {
+            "ref": "7262929206",
+            "lat": "-15.8054549",
+            "lon": "-47.8679126"
+          },
+          {
+            "ref": "1938484758",
+            "lat": "-15.8055257",
+            "lon": "-47.8679354"
+          },
+          {
+            "ref": "1938484743",
+            "lat": "-15.8064472",
+            "lon": "-47.8682709"
+          },
+          {
+            "ref": "7262929204",
+            "lat": "-15.8065335",
+            "lon": "-47.8683006"
+          },
+          {
+            "ref": "1938484739",
+            "lat": "-15.8071994",
+            "lon": "-47.8685253"
+          },
+          {
+            "ref": "7262929213",
+            "lat": "-15.8090834",
+            "lon": "-47.8691563"
+          },
+          {
+            "ref": "1938484774",
+            "lat": "-15.8092034",
+            "lon": "-47.8692019"
+          },
+          {
+            "ref": "7262929212",
+            "lat": "-15.8093115",
+            "lon": "-47.8692500"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "SAFS",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343713",
+          "lat": "-15.8052354",
+          "lon": "-47.8679721"
+        },
+        {
+          "ref": "7262929203",
+          "lat": "-15.8052819",
+          "lon": "-47.8679325"
+        },
+        {
+          "ref": "1938484750",
+          "lat": "-15.8053257",
+          "lon": "-47.8679119"
+        },
+        {
+          "ref": "7262929205",
+          "lat": "-15.8053638",
+          "lon": "-47.8679064"
+        },
+        {
+          "ref": "1938484700",
+          "lat": "-15.8054018",
+          "lon": "-47.8679038"
+        },
+        {
+          "ref": "7262929206",
+          "lat": "-15.8054549",
+          "lon": "-47.8679126"
+        },
+        {
+          "ref": "1938484758",
+          "lat": "-15.8055257",
+          "lon": "-47.8679354"
+        },
+        {
+          "ref": "1938484743",
+          "lat": "-15.8064472",
+          "lon": "-47.8682709"
+        },
+        {
+          "ref": "7262929204",
+          "lat": "-15.8065335",
+          "lon": "-47.8683006"
+        },
+        {
+          "ref": "1938484739",
+          "lat": "-15.8071994",
+          "lon": "-47.8685253"
+        },
+        {
+          "ref": "7262929213",
+          "lat": "-15.8090834",
+          "lon": "-47.8691563"
+        },
+        {
+          "ref": "1938484774",
+          "lat": "-15.8092034",
+          "lon": "-47.8692019"
+        },
+        {
+          "ref": "7262929212",
+          "lat": "-15.8093115",
+          "lon": "-47.8692500"
+        }
+      ]
+    },
+    {
+      "id": "183474584",
+      "version": "9",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "183474584",
+        "version": "8",
+        "timestamp": "2021-06-04T03:43:34Z",
+        "changeset": "105808512",
+        "uid": "8794012",
+        "user": "popnlock",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "secondary_link",
+          "lanes": "2",
+          "name": "SAFS"
+        },
+        "nodes": [
+          {
+            "ref": "7262646228",
+            "lat": "-15.8053714",
+            "lon": "-47.8674366"
+          },
+          {
+            "ref": "7262646227",
+            "lat": "-15.8053412",
+            "lon": "-47.8674075"
+          },
+          {
+            "ref": "7262646231",
+            "lat": "-15.8053167",
+            "lon": "-47.8673827"
+          },
+          {
+            "ref": "1938484646",
+            "lat": "-15.8052903",
+            "lon": "-47.8673673"
+          },
+          {
+            "ref": "7262646230",
+            "lat": "-15.8052316",
+            "lon": "-47.8673512"
+          },
+          {
+            "ref": "1938484654",
+            "lat": "-15.8051825",
+            "lon": "-47.8673364"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "secondary_link",
+        "lanes": "2",
+        "name": "SAFS",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "7262646228",
+          "lat": "-15.8053714",
+          "lon": "-47.8674366"
+        },
+        {
+          "ref": "7262646227",
+          "lat": "-15.8053412",
+          "lon": "-47.8674075"
+        },
+        {
+          "ref": "7262646231",
+          "lat": "-15.8053167",
+          "lon": "-47.8673827"
+        },
+        {
+          "ref": "1938484646",
+          "lat": "-15.8052903",
+          "lon": "-47.8673673"
+        },
+        {
+          "ref": "7262646230",
+          "lat": "-15.8052316",
+          "lon": "-47.8673512"
+        },
+        {
+          "ref": "1938484654",
+          "lat": "-15.8051825",
+          "lon": "-47.8673364"
+        }
+      ]
+    },
+    {
+      "id": "221909526",
+      "version": "6",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "221909526",
+        "version": "5",
+        "timestamp": "2021-03-15T18:27:01Z",
+        "changeset": "101069434",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "secondary_link",
+          "lanes": "1"
+        },
+        "nodes": [
+          {
+            "ref": "1938343697",
+            "lat": "-15.8040147",
+            "lon": "-47.8709520"
+          },
+          {
+            "ref": "7222810890",
+            "lat": "-15.8040217",
+            "lon": "-47.8710027"
+          },
+          {
+            "ref": "7222810891",
+            "lat": "-15.8040323",
+            "lon": "-47.8710408"
+          },
+          {
+            "ref": "2308904380",
+            "lat": "-15.8040480",
+            "lon": "-47.8710638"
+          },
+          {
+            "ref": "7222810892",
+            "lat": "-15.8040909",
+            "lon": "-47.8710915"
+          },
+          {
+            "ref": "7222810889",
+            "lat": "-15.8041154",
+            "lon": "-47.8710958"
+          },
+          {
+            "ref": "2669537527",
+            "lat": "-15.8041391",
+            "lon": "-47.8710938"
+          },
+          {
+            "ref": "7222810888",
+            "lat": "-15.8041740",
+            "lon": "-47.8710787"
+          },
+          {
+            "ref": "1938343642",
+            "lat": "-15.8042199",
+            "lon": "-47.8710154"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "secondary_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343697",
+          "lat": "-15.8040147",
+          "lon": "-47.8709520"
+        },
+        {
+          "ref": "7222810890",
+          "lat": "-15.8040217",
+          "lon": "-47.8710027"
+        },
+        {
+          "ref": "7222810891",
+          "lat": "-15.8040323",
+          "lon": "-47.8710408"
+        },
+        {
+          "ref": "2308904380",
+          "lat": "-15.8040480",
+          "lon": "-47.8710638"
+        },
+        {
+          "ref": "7222810892",
+          "lat": "-15.8040909",
+          "lon": "-47.8710915"
+        },
+        {
+          "ref": "7222810889",
+          "lat": "-15.8041154",
+          "lon": "-47.8710958"
+        },
+        {
+          "ref": "2669537527",
+          "lat": "-15.8041391",
+          "lon": "-47.8710938"
+        },
+        {
+          "ref": "7222810888",
+          "lat": "-15.8041740",
+          "lon": "-47.8710787"
+        },
+        {
+          "ref": "1938343642",
+          "lat": "-15.8042199",
+          "lon": "-47.8710154"
+        }
+      ]
+    },
+    {
+      "id": "222071932",
+      "version": "10",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "222071932",
+        "version": "9",
+        "timestamp": "2020-03-16T04:14:20Z",
+        "changeset": "82235777",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "junction": "roundabout",
+          "highway": "tertiary"
+        },
+        "nodes": [
+          {
+            "ref": "6532141294",
+            "lat": "-15.8036650",
+            "lon": "-47.8749648"
+          },
+          {
+            "ref": "1387106761",
+            "lat": "-15.8036237",
+            "lon": "-47.8749423"
+          },
+          {
+            "ref": "142194252",
+            "lat": "-15.8035799",
+            "lon": "-47.8749347"
+          },
+          {
+            "ref": "7298140298",
+            "lat": "-15.8035545",
+            "lon": "-47.8749386"
+          },
+          {
+            "ref": "6532140884",
+            "lat": "-15.8035360",
+            "lon": "-47.8749415"
+          },
+          {
+            "ref": "6532141285",
+            "lat": "-15.8034962",
+            "lon": "-47.8749619"
+          },
+          {
+            "ref": "6532141286",
+            "lat": "-15.8034644",
+            "lon": "-47.8749940"
+          },
+          {
+            "ref": "7297928173",
+            "lat": "-15.8034566",
+            "lon": "-47.8750082"
+          },
+          {
+            "ref": "6532141287",
+            "lat": "-15.8034435",
+            "lon": "-47.8750347"
+          },
+          {
+            "ref": "142194043",
+            "lat": "-15.8034392",
+            "lon": "-47.8751001"
+          },
+          {
+            "ref": "2698038043",
+            "lat": "-15.8034425",
+            "lon": "-47.8751288"
+          },
+          {
+            "ref": "2310482968",
+            "lat": "-15.8034642",
+            "lon": "-47.8751725"
+          },
+          {
+            "ref": "2698038045",
+            "lat": "-15.8034985",
+            "lon": "-47.8752064"
+          },
+          {
+            "ref": "6532141288",
+            "lat": "-15.8035416",
+            "lon": "-47.8752269"
+          },
+          {
+            "ref": "6532141289",
+            "lat": "-15.8035887",
+            "lon": "-47.8752316"
+          },
+          {
+            "ref": "6532141290",
+            "lat": "-15.8036347",
+            "lon": "-47.8752201"
+          },
+          {
+            "ref": "1387106639",
+            "lat": "-15.8036746",
+            "lon": "-47.8751935"
+          },
+          {
+            "ref": "1938343524",
+            "lat": "-15.8037006",
+            "lon": "-47.8751609"
+          },
+          {
+            "ref": "6532141291",
+            "lat": "-15.8037167",
+            "lon": "-47.8751220"
+          },
+          {
+            "ref": "6532141292",
+            "lat": "-15.8037216",
+            "lon": "-47.8750799"
+          },
+          {
+            "ref": "6532141293",
+            "lat": "-15.8037149",
+            "lon": "-47.8750381"
+          },
+          {
+            "ref": "1938343689",
+            "lat": "-15.8036971",
+            "lon": "-47.8750000"
+          },
+          {
+            "ref": "6532141294",
+            "lat": "-15.8036650",
+            "lon": "-47.8749648"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "6532141294",
+          "lat": "-15.8036650",
+          "lon": "-47.8749648"
+        },
+        {
+          "ref": "1387106761",
+          "lat": "-15.8036237",
+          "lon": "-47.8749423"
+        },
+        {
+          "ref": "142194252",
+          "lat": "-15.8035799",
+          "lon": "-47.8749347"
+        },
+        {
+          "ref": "7298140298",
+          "lat": "-15.8035545",
+          "lon": "-47.8749386"
+        },
+        {
+          "ref": "6532140884",
+          "lat": "-15.8035360",
+          "lon": "-47.8749415"
+        },
+        {
+          "ref": "6532141285",
+          "lat": "-15.8034962",
+          "lon": "-47.8749619"
+        },
+        {
+          "ref": "6532141286",
+          "lat": "-15.8034644",
+          "lon": "-47.8749940"
+        },
+        {
+          "ref": "7297928173",
+          "lat": "-15.8034566",
+          "lon": "-47.8750082"
+        },
+        {
+          "ref": "6532141287",
+          "lat": "-15.8034435",
+          "lon": "-47.8750347"
+        },
+        {
+          "ref": "142194043",
+          "lat": "-15.8034392",
+          "lon": "-47.8751001"
+        },
+        {
+          "ref": "2698038043",
+          "lat": "-15.8034425",
+          "lon": "-47.8751288"
+        },
+        {
+          "ref": "2310482968",
+          "lat": "-15.8034642",
+          "lon": "-47.8751725"
+        },
+        {
+          "ref": "2698038045",
+          "lat": "-15.8034985",
+          "lon": "-47.8752064"
+        },
+        {
+          "ref": "6532141288",
+          "lat": "-15.8035416",
+          "lon": "-47.8752269"
+        },
+        {
+          "ref": "6532141289",
+          "lat": "-15.8035887",
+          "lon": "-47.8752316"
+        },
+        {
+          "ref": "6532141290",
+          "lat": "-15.8036347",
+          "lon": "-47.8752201"
+        },
+        {
+          "ref": "1387106639",
+          "lat": "-15.8036746",
+          "lon": "-47.8751935"
+        },
+        {
+          "ref": "1938343524",
+          "lat": "-15.8037006",
+          "lon": "-47.8751609"
+        },
+        {
+          "ref": "6532141291",
+          "lat": "-15.8037167",
+          "lon": "-47.8751220"
+        },
+        {
+          "ref": "6532141292",
+          "lat": "-15.8037216",
+          "lon": "-47.8750799"
+        },
+        {
+          "ref": "6532141293",
+          "lat": "-15.8037149",
+          "lon": "-47.8750381"
+        },
+        {
+          "ref": "1938343689",
+          "lat": "-15.8036971",
+          "lon": "-47.8750000"
+        },
+        {
+          "ref": "6532141294",
+          "lat": "-15.8036650",
+          "lon": "-47.8749648"
+        }
+      ]
+    },
+    {
+      "id": "222071939",
+      "version": "3",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "222071939",
+        "version": "2",
+        "timestamp": "2020-03-04T06:37:51Z",
+        "changeset": "81758550",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "service"
+        },
+        "nodes": [
+          {
+            "ref": "1938343524",
+            "lat": "-15.8037006",
+            "lon": "-47.8751609"
+          },
+          {
+            "ref": "1387106636",
+            "lat": "-15.8037672",
+            "lon": "-47.8751656"
+          },
+          {
+            "ref": "7262746741",
+            "lat": "-15.8039179",
+            "lon": "-47.8752060"
+          },
+          {
+            "ref": "1387106707",
+            "lat": "-15.8041173",
+            "lon": "-47.8752699"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "service",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343524",
+          "lat": "-15.8037006",
+          "lon": "-47.8751609"
+        },
+        {
+          "ref": "1387106636",
+          "lat": "-15.8037672",
+          "lon": "-47.8751656"
+        },
+        {
+          "ref": "7262746741",
+          "lat": "-15.8039179",
+          "lon": "-47.8752060"
+        },
+        {
+          "ref": "1387106707",
+          "lat": "-15.8041173",
+          "lon": "-47.8752699"
+        }
+      ]
+    },
+    {
+      "id": "222071941",
+      "version": "3",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "222071941",
+        "version": "2",
+        "timestamp": "2020-03-04T06:37:51Z",
+        "changeset": "81758550",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "service"
+        },
+        "nodes": [
+          {
+            "ref": "1387106627",
+            "lat": "-15.8041459",
+            "lon": "-47.8751805"
+          },
+          {
+            "ref": "7262746742",
+            "lat": "-15.8039192",
+            "lon": "-47.8751189"
+          },
+          {
+            "ref": "1387106718",
+            "lat": "-15.8037899",
+            "lon": "-47.8750738"
+          },
+          {
+            "ref": "6532141293",
+            "lat": "-15.8037149",
+            "lon": "-47.8750381"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "service",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1387106627",
+          "lat": "-15.8041459",
+          "lon": "-47.8751805"
+        },
+        {
+          "ref": "7262746742",
+          "lat": "-15.8039192",
+          "lon": "-47.8751189"
+        },
+        {
+          "ref": "1387106718",
+          "lat": "-15.8037899",
+          "lon": "-47.8750738"
+        },
+        {
+          "ref": "6532141293",
+          "lat": "-15.8037149",
+          "lon": "-47.8750381"
+        }
+      ]
+    },
+    {
+      "id": "243359015",
+      "version": "5",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "243359015",
+        "version": "4",
+        "timestamp": "2021-03-15T19:33:15Z",
+        "changeset": "101071899",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "lanes": "2"
+        },
+        "nodes": [
+          {
+            "ref": "2507827646",
+            "lat": "-15.8018187",
+            "lon": "-47.8730303"
+          },
+          {
+            "ref": "2507827647",
+            "lat": "-15.8014841",
+            "lon": "-47.8729253"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "2507827646",
+          "lat": "-15.8018187",
+          "lon": "-47.8730303"
+        },
+        {
+          "ref": "2507827647",
+          "lat": "-15.8014841",
+          "lon": "-47.8729253"
+        }
+      ]
+    },
+    {
+      "id": "243359016",
+      "version": "5",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "243359016",
+        "version": "4",
+        "timestamp": "2021-03-15T18:27:01Z",
+        "changeset": "101069434",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "lanes": "2"
+        },
+        "nodes": [
+          {
+            "ref": "142204483",
+            "lat": "-15.8016020",
+            "lon": "-47.8725305"
+          },
+          {
+            "ref": "2525832734",
+            "lat": "-15.8019377",
+            "lon": "-47.8726441"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "142204483",
+          "lat": "-15.8016020",
+          "lon": "-47.8725305"
+        },
+        {
+          "ref": "2525832734",
+          "lat": "-15.8019377",
+          "lon": "-47.8726441"
+        }
+      ]
+    },
+    {
+      "id": "261321232",
+      "version": "6",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "261321232",
+        "version": "5",
+        "timestamp": "2021-03-18T20:36:32Z",
+        "changeset": "101284595",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "name": "SAFS",
+          "highway": "tertiary",
+          "lanes": "2"
+        },
+        "nodes": [
+          {
+            "ref": "1387127386",
+            "lat": "-15.8031823",
+            "lon": "-47.8667048"
+          },
+          {
+            "ref": "142204556",
+            "lat": "-15.8034145",
+            "lon": "-47.8667821"
+          },
+          {
+            "ref": "2905129303",
+            "lat": "-15.8051056",
+            "lon": "-47.8673158"
+          },
+          {
+            "ref": "1938484654",
+            "lat": "-15.8051825",
+            "lon": "-47.8673364"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "SAFS",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1387127386",
+          "lat": "-15.8031823",
+          "lon": "-47.8667048"
+        },
+        {
+          "ref": "142204556",
+          "lat": "-15.8034145",
+          "lon": "-47.8667821"
+        },
+        {
+          "ref": "2905129303",
+          "lat": "-15.8051056",
+          "lon": "-47.8673158"
+        },
+        {
+          "ref": "1938484654",
+          "lat": "-15.8051825",
+          "lon": "-47.8673364"
+        }
+      ]
+    },
+    {
+      "id": "781662392",
+      "version": "4",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "781662392",
+        "version": "3",
+        "timestamp": "2021-03-15T19:33:15Z",
+        "changeset": "101071899",
+        "uid": "10456431",
+        "user": "ProfessorLupin",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "lanes": "1",
+          "name": "SES - Quadra 801"
+        },
+        "nodes": [
+          {
+            "ref": "7297928173",
+            "lat": "-15.8034566",
+            "lon": "-47.8750082"
+          },
+          {
+            "ref": "7297928167",
+            "lat": "-15.8034037",
+            "lon": "-47.8750196"
+          },
+          {
+            "ref": "7297928166",
+            "lat": "-15.8033321",
+            "lon": "-47.8750263"
+          },
+          {
+            "ref": "7297928162",
+            "lat": "-15.8032669",
+            "lon": "-47.8750250"
+          },
+          {
+            "ref": "7297928165",
+            "lat": "-15.8032417",
+            "lon": "-47.8750223"
+          },
+          {
+            "ref": "7297928164",
+            "lat": "-15.8031740",
+            "lon": "-47.8750028"
+          },
+          {
+            "ref": "7297928174",
+            "lat": "-15.8030915",
+            "lon": "-47.8749617"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "SES - Quadra 801",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "7297928173",
+          "lat": "-15.8034566",
+          "lon": "-47.8750082"
+        },
+        {
+          "ref": "7297928167",
+          "lat": "-15.8034037",
+          "lon": "-47.8750196"
+        },
+        {
+          "ref": "7297928166",
+          "lat": "-15.8033321",
+          "lon": "-47.8750263"
+        },
+        {
+          "ref": "7297928162",
+          "lat": "-15.8032669",
+          "lon": "-47.8750250"
+        },
+        {
+          "ref": "7297928165",
+          "lat": "-15.8032417",
+          "lon": "-47.8750223"
+        },
+        {
+          "ref": "7297928164",
+          "lat": "-15.8031740",
+          "lon": "-47.8750028"
+        },
+        {
+          "ref": "7297928174",
+          "lat": "-15.8030915",
+          "lon": "-47.8749617"
+        }
+      ]
+    },
+    {
+      "id": "781678259",
+      "version": "2",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "781678259",
+        "version": "1",
+        "timestamp": "2020-03-16T04:14:20Z",
+        "changeset": "82235777",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "name": "SES - Quadra 801"
+        },
+        "nodes": [
+          {
+            "ref": "1938343689",
+            "lat": "-15.8036971",
+            "lon": "-47.8750000"
+          },
+          {
+            "ref": "7298140302",
+            "lat": "-15.8036798",
+            "lon": "-47.8749167"
+          },
+          {
+            "ref": "7298140301",
+            "lat": "-15.8036737",
+            "lon": "-47.8748714"
+          },
+          {
+            "ref": "7298140303",
+            "lat": "-15.8036715",
+            "lon": "-47.8747943"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "name": "SES - Quadra 801",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "1938343689",
+          "lat": "-15.8036971",
+          "lon": "-47.8750000"
+        },
+        {
+          "ref": "7298140302",
+          "lat": "-15.8036798",
+          "lon": "-47.8749167"
+        },
+        {
+          "ref": "7298140301",
+          "lat": "-15.8036737",
+          "lon": "-47.8748714"
+        },
+        {
+          "ref": "7298140303",
+          "lat": "-15.8036715",
+          "lon": "-47.8747943"
+        }
+      ]
+    },
+    {
+      "id": "781678260",
+      "version": "2",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "781678260",
+        "version": "1",
+        "timestamp": "2020-03-16T04:14:20Z",
+        "changeset": "82235777",
+        "uid": "9446673",
+        "user": "LakeComo",
+        "action": "modify",
+        "type": "way",
+        "tags": {
+          "oneway": "yes",
+          "highway": "tertiary",
+          "name": "SES - Quadra 801"
+        },
+        "nodes": [
+          {
+            "ref": "7298140303",
+            "lat": "-15.8036715",
+            "lon": "-47.8747943"
+          },
+          {
+            "ref": "7298140300",
+            "lat": "-15.8036308",
+            "lon": "-47.8748547"
+          },
+          {
+            "ref": "7298140299",
+            "lat": "-15.8036011",
+            "lon": "-47.8748889"
+          },
+          {
+            "ref": "7298140298",
+            "lat": "-15.8035545",
+            "lon": "-47.8749386"
+          }
+        ]
+      },
+      "action": "modify",
+      "type": "way",
+      "tags": {
+        "highway": "tertiary",
+        "name": "SES - Quadra 801",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "7298140303",
+          "lat": "-15.8036715",
+          "lon": "-47.8747943"
+        },
+        {
+          "ref": "7298140300",
+          "lat": "-15.8036308",
+          "lon": "-47.8748547"
+        },
+        {
+          "ref": "7298140299",
+          "lat": "-15.8036011",
+          "lon": "-47.8748889"
+        },
+        {
+          "ref": "7298140298",
+          "lat": "-15.8035545",
+          "lon": "-47.8749386"
+        }
+      ]
+    },
+    {
+      "id": "1038257435",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "way",
+      "tags": {
+        "highway": "footway"
+      },
+      "nodes": [
+        {
+          "ref": "9562611332",
+          "lat": "-15.8034072",
+          "lon": "-47.8737446"
+        },
+        {
+          "ref": "9562611337",
+          "lat": "-15.8036509",
+          "lon": "-47.8738245"
+        },
+        {
+          "ref": "9562611336",
+          "lat": "-15.8036777",
+          "lon": "-47.8738333"
+        },
+        {
+          "ref": "9562611333",
+          "lat": "-15.8037526",
+          "lon": "-47.8738578"
+        },
+        {
+          "ref": "9562611334",
+          "lat": "-15.8037174",
+          "lon": "-47.8739694"
+        },
+        {
+          "ref": "9562611335",
+          "lat": "-15.8036420",
+          "lon": "-47.8739415"
+        },
+        {
+          "ref": "9562611336",
+          "lat": "-15.8036777",
+          "lon": "-47.8738333"
+        }
+      ]
+    },
+    {
+      "id": "1038257436",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "way",
+      "tags": {
+        "highway": "footway"
+      },
+      "nodes": [
+        {
+          "ref": "9562611331",
+          "lat": "-15.8036543",
+          "lon": "-47.8738019"
+        },
+        {
+          "ref": "9562611337",
+          "lat": "-15.8036509",
+          "lon": "-47.8738245"
+        }
+      ]
+    },
+    {
+      "id": "1038257437",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "way",
+      "tags": {
+        "highway": "footway"
+      },
+      "nodes": [
+        {
+          "ref": "9562611335",
+          "lat": "-15.8036420",
+          "lon": "-47.8739415"
+        },
+        {
+          "ref": "9562611338",
+          "lat": "-15.8036000",
+          "lon": "-47.8740705"
+        },
+        {
+          "ref": "7297928157",
+          "lat": "-15.8036366",
+          "lon": "-47.8741707"
+        }
+      ]
+    },
+    {
+      "id": "1038257438",
+      "version": "1",
+      "timestamp": "2022-03-08T13:24:55Z",
+      "changeset": "118236812",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "way",
+      "tags": {
+        "highway": "service",
+        "service": "parking_aisle",
+        "surface": "asphalt"
+      },
+      "nodes": [
+        {
+          "ref": "9562611340",
+          "lat": "-15.8015760",
+          "lon": "-47.8742326"
+        },
+        {
+          "ref": "9562611339",
+          "lat": "-15.8020120",
+          "lon": "-47.8743755"
+        },
+        {
+          "ref": "2835509039",
+          "lat": "-15.8019632",
+          "lon": "-47.8745417"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "id": "118236812",
+    "created_at": "2022-03-08T13:24:55Z",
+    "closed_at": "2022-03-08T13:24:56Z",
+    "open": "false",
+    "user": "wille",
+    "uid": "360183",
+    "min_lat": "-15.8093115",
+    "min_lon": "-47.8765279",
+    "max_lat": "-15.8014841",
+    "max_lon": "-47.8647367",
+    "comments_count": "0",
+    "changes_count": "42",
+    "tag": [
+      {
+        "k": "changesets_count",
+        "v": "7503"
+      },
+      {
+        "k": "imagery_used",
+        "v": "GeoPortal DF 2015"
+      },
+      {
+        "k": "locale",
+        "v": "pt-BR"
+      },
+      {
+        "k": "host",
+        "v": "https://www.openstreetmap.org/edit"
+      },
+      {
+        "k": "created_by",
+        "v": "iD 2.20.4"
+      },
+      {
+        "k": "comment",
+        "v": "surface e melhorias"
+      }
+    ],
+    "bbox": {
+      "left": "-47.8765279",
+      "bottom": "-15.8093115",
+      "right": "-47.8647367",
+      "top": "-15.8014841"
+    }
+  }
+}

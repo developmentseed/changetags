@@ -1,0 +1,142 @@
+{
+  "elements": [
+    {
+      "id": "9560278187",
+      "lat": "40.6268668",
+      "lon": "21.7049967",
+      "version": "1",
+      "timestamp": "2022-03-07T11:37:13Z",
+      "changeset": "118193913",
+      "uid": "555562",
+      "user": "pppetros",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9560278188",
+      "lat": "40.6267681",
+      "lon": "21.7049584",
+      "version": "1",
+      "timestamp": "2022-03-07T11:37:13Z",
+      "changeset": "118193913",
+      "uid": "555562",
+      "user": "pppetros",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9560278189",
+      "lat": "40.6266797",
+      "lon": "21.7053534",
+      "version": "1",
+      "timestamp": "2022-03-07T11:37:13Z",
+      "changeset": "118193913",
+      "uid": "555562",
+      "user": "pppetros",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "9560278190",
+      "lat": "40.6267783",
+      "lon": "21.7053918",
+      "version": "1",
+      "timestamp": "2022-03-07T11:37:13Z",
+      "changeset": "118193913",
+      "uid": "555562",
+      "user": "pppetros",
+      "action": "create",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "1037956583",
+      "version": "1",
+      "timestamp": "2022-03-07T11:37:13Z",
+      "changeset": "118193913",
+      "uid": "555562",
+      "user": "pppetros",
+      "action": "create",
+      "type": "way",
+      "tags": {
+        "building": "yes"
+      },
+      "nodes": [
+        {
+          "ref": "9560278187",
+          "lat": "40.6268668",
+          "lon": "21.7049967"
+        },
+        {
+          "ref": "9560278188",
+          "lat": "40.6267681",
+          "lon": "21.7049584"
+        },
+        {
+          "ref": "9560278189",
+          "lat": "40.6266797",
+          "lon": "21.7053534"
+        },
+        {
+          "ref": "9560278190",
+          "lat": "40.6267783",
+          "lon": "21.7053918"
+        },
+        {
+          "ref": "9560278187",
+          "lat": "40.6268668",
+          "lon": "21.7049967"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "id": "118193913",
+    "created_at": "2022-03-07T11:37:13Z",
+    "closed_at": "2022-03-07T11:37:13Z",
+    "open": "false",
+    "user": "pppetros",
+    "uid": "555562",
+    "min_lat": "40.6266797",
+    "min_lon": "21.7049584",
+    "max_lat": "40.6268668",
+    "max_lon": "21.7053918",
+    "comments_count": "0",
+    "changes_count": "5",
+    "tag": [
+      {
+        "k": "changesets_count",
+        "v": "7695"
+      },
+      {
+        "k": "imagery_used",
+        "v": "Bing Maps Aerial"
+      },
+      {
+        "k": "locale",
+        "v": "el"
+      },
+      {
+        "k": "host",
+        "v": "https://www.openstreetmap.org/edit"
+      },
+      {
+        "k": "created_by",
+        "v": "iD 2.20.4"
+      },
+      {
+        "k": "comment",
+        "v": "αμυνταιο"
+      }
+    ],
+    "bbox": {
+      "left": "21.7049584",
+      "bottom": "40.6266797",
+      "right": "21.7053918",
+      "top": "40.6268668"
+    }
+  }
+}
