@@ -1,5 +1,5 @@
 {
-  "name": "changeset-tag-diff",
+  "name": "changetags",
   "version": "0.0.1",
   "packageManager": "yarn@3.2.0",
   "source": "src/index.js",
@@ -14,5 +14,7 @@
     "jest": "^27.5.1",
     "parcel": "^2.3.2",
     "prettier": "2.5.1"
-  }
+  },
+  "description": "List the tags added, modified or deleted by a OpenStreetMap changeset",
+  "license": "MIT"
 }
