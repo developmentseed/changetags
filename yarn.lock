@@ -1916,9 +1916,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"changeset-tag-diff@workspace:.":
+"changetags@workspace:.":
   version: 0.0.0-use.local
-  resolution: "changeset-tag-diff@workspace:."
+  resolution: "changetags@workspace:."
   dependencies:
     jest: ^27.5.1
     parcel: ^2.3.2

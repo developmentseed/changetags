@@ -1,0 +1,318 @@
+{
+  "elements": [
+    {
+      "id": "4081333090",
+      "lat": "-15.7917926",
+      "lon": "-47.8833119",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4081333090",
+        "lat": "-15.7917926",
+        "lon": "-47.8833119",
+        "version": "1",
+        "timestamp": "2016-03-27T15:15:17Z",
+        "changeset": "38101502",
+        "uid": "360183",
+        "user": "wille",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "shop": "books",
+          "name": "Leitura"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "alt_name": "Livraria Leitura",
+        "brand": "Leitura",
+        "brand:wikidata": "Q6176628",
+        "brand:wikipedia": "pt:Leitura (livraria)",
+        "name": "Leitura",
+        "shop": "books"
+      }
+    },
+    {
+      "id": "4185562609",
+      "lat": "-15.7921204",
+      "lon": "-47.8832036",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4185562609",
+        "lat": "-15.7921204",
+        "lon": "-47.8832036",
+        "version": "1",
+        "timestamp": "2016-05-14T15:08:28Z",
+        "changeset": "39313536",
+        "uid": "1819463",
+        "user": "tamiel",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "name": "O Boticário",
+          "shop": "cosmetics"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "brand": "O Boticário",
+        "brand:wikidata": "Q7073219",
+        "brand:wikipedia": "en:O Boticário",
+        "name": "O Boticário",
+        "shop": "perfumery"
+      }
+    },
+    {
+      "id": "4791547353",
+      "lat": "-15.7920361",
+      "lon": "-47.8837073",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4791547353",
+        "lat": "-15.7920361",
+        "lon": "-47.8837073",
+        "version": "1",
+        "timestamp": "2017-04-13T11:26:51Z",
+        "changeset": "47739346",
+        "uid": "360183",
+        "user": "wille",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "name": "Casas Bahia",
+          "shop": "furniture"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "brand": "Casas Bahia",
+        "brand:wikidata": "Q5048048",
+        "brand:wikipedia": "en:Casas Bahia",
+        "name": "Casas Bahia",
+        "shop": "department_store"
+      }
+    },
+    {
+      "id": "4791547354",
+      "visible": "false",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4791547354",
+        "lat": "-15.7918322",
+        "lon": "-47.8834767",
+        "version": "1",
+        "timestamp": "2017-04-13T11:26:51Z",
+        "changeset": "47739346",
+        "uid": "360183",
+        "user": "wille",
+        "action": "delete",
+        "type": "node",
+        "tags": {
+          "name": "Ricardo Eletro",
+          "shop": "furniture"
+        }
+      },
+      "action": "delete",
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": "4791547357",
+      "lat": "-15.7911973",
+      "lon": "-47.8830529",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4791547357",
+        "lat": "-15.7911973",
+        "lon": "-47.8830529",
+        "version": "1",
+        "timestamp": "2017-04-13T11:26:52Z",
+        "changeset": "47739346",
+        "uid": "360183",
+        "user": "wille",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "shop": "electronics",
+          "name": "Polishop"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "brand": "Polishop",
+        "brand:wikidata": "Q10350856",
+        "brand:wikipedia": "pt:Polishop",
+        "name": "Polishop",
+        "shop": "electronics"
+      }
+    },
+    {
+      "id": "4908141128",
+      "lat": "-15.7909229",
+      "lon": "-47.8833106",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "4908141128",
+        "lat": "-15.7909229",
+        "lon": "-47.8833106",
+        "version": "1",
+        "timestamp": "2017-06-10T21:17:14Z",
+        "changeset": "49429247",
+        "uid": "360183",
+        "user": "wille",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "shop": "chocolate",
+          "name": "Kopenhagen",
+          "level": "2"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "brand": "Kopenhagen",
+        "brand:wikidata": "Q10314624",
+        "brand:wikipedia": "pt:Kopenhagen",
+        "level": "2",
+        "name": "Kopenhagen",
+        "shop": "chocolate"
+      }
+    },
+    {
+      "id": "5133032328",
+      "lat": "-15.7915102",
+      "lon": "-47.8832810",
+      "version": "2",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "old": {
+        "id": "5133032328",
+        "lat": "-15.7915102",
+        "lon": "-47.8832810",
+        "version": "1",
+        "timestamp": "2017-09-27T13:04:33Z",
+        "changeset": "52413256",
+        "uid": "360183",
+        "user": "wille",
+        "action": "modify",
+        "type": "node",
+        "tags": {
+          "name": "Bio Mundo",
+          "level": "-1",
+          "shop": "convenience"
+        }
+      },
+      "action": "modify",
+      "type": "node",
+      "tags": {
+        "brand": "Bio Mundo",
+        "brand:wikidata": "Q109562493",
+        "level": "-1",
+        "name": "Bio Mundo",
+        "shop": "health_food"
+      }
+    },
+    {
+      "id": "9577464680",
+      "lat": "-15.7909700",
+      "lon": "-47.8829693",
+      "version": "1",
+      "timestamp": "2022-03-14T10:40:47Z",
+      "changeset": "118464452",
+      "uid": "360183",
+      "user": "wille",
+      "action": "create",
+      "type": "node",
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      }
+    }
+  ],
+  "metadata": {
+    "id": "118464452",
+    "created_at": "2022-03-14T10:40:47Z",
+    "closed_at": "2022-03-14T10:40:48Z",
+    "open": "false",
+    "user": "wille",
+    "uid": "360183",
+    "min_lat": "-15.7921204",
+    "min_lon": "-47.8837073",
+    "max_lat": "-15.7909229",
+    "max_lon": "-47.8829693",
+    "comments_count": "0",
+    "changes_count": "8",
+    "tag": [
+      {
+        "k": "changesets_count",
+        "v": "7526"
+      },
+      {
+        "k": "resolved:outdated_tags:noncanonical_brand",
+        "v": "4"
+      },
+      {
+        "k": "imagery_used",
+        "v": "Maxar Premium Imagery"
+      },
+      {
+        "k": "locale",
+        "v": "pt-BR"
+      },
+      {
+        "k": "host",
+        "v": "https://www.openstreetmap.org/edit"
+      },
+      {
+        "k": "created_by",
+        "v": "iD 2.20.4"
+      },
+      {
+        "k": "comment",
+        "v": "update pois"
+      }
+    ],
+    "bbox": {
+      "left": "-47.8837073",
+      "bottom": "-15.7921204",
+      "right": "-47.8829693",
+      "top": "-15.7909229"
+    }
+  }
+}
