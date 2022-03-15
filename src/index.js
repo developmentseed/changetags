@@ -13,13 +13,16 @@ function createTagDiff(changesetJson) {
 
   changesetJson.elements
     .filter((el) => el.action === "modify")
-    .forEach((el) =>
+    .forEach((el) => {
       analyzeModifiedFeature(
         el.tags || {},
         el.old ? el.old.tags || {} : {},
         result
-      )
-    );
+      );
+      // get also the main tags of the modified features
+      getMainTags(el.tags, result);
+      getMainTags(el.old.tags, result);
+    });
 
   changesetJson.elements
     .filter((el) => el.action === "create")

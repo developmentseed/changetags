@@ -13,23 +13,28 @@ describe("createTagDiff", () => {
   it("returns a change on the name tag", () => {
     expect(createTagDiff(changeset2)).toEqual({
       name: ["B2 Bike", "Bike Brothers"],
+      shop: ["bicycle"],
     });
   });
 
   it("returns a deleted tag", () => {
     expect(createTagDiff(changeset3)).toEqual({
       name: ["mata nativa"],
+      natural: ["wood"],
     });
   });
 
   it("returns correct result to a complex changeset", () => {
     expect(createTagDiff(changeset4)).toEqual({
+      amenity: ["restaurant"],
       entrance: ["yes"],
-      highway: ["street_lamp", "footway", "service"],
+      highway: ["service", "tertiary", "secondary_link", "street_lamp", "footway"],
       short_name: ["CNBB"],
       surface: ["asphalt", "paved"],
       wikidata: ["Q3686567"],
       wikipedia: ["pt:Conferência Nacional dos Bispos do Brasil"],
+      office: ["diplomatic"],
+      landuse: ["religious"],
     });
   });
 
@@ -60,10 +65,13 @@ describe("createTagDiff", () => {
         "pt:Kopenhagen",
       ],
       shop: [
+        "books",
         "perfumery",
         "cosmetics",
         "department_store",
         "furniture",
+        "electronics",
+        "chocolate",
         "health_food",
         "convenience",
       ],
