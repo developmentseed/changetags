@@ -40,7 +40,7 @@ will have only `highway=primary` as the result.
 
 ### Modified features
 
-We include the main tags of the modified features and also the tags that have been changed.
+We include the main tags of the modified features and also the tags that were modified.
 
 #### Examples
 - Changeset that modified the tags of a `bank` from:
@@ -77,7 +77,7 @@ If only the geometry changed, it will include only the main tag, so the result w
 
 ## Data structure
 
-The data returned from the `createTagDiff` function is an object whose each entry is an array.
+The data returned by the `createTagDiff` function is an object whose each entry is an array.
 
 ```
 {
