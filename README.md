@@ -6,6 +6,10 @@ It needs to receive the data in the `real-changesets` format ([example of a real
 
 The [osm-adiff-parser](https://github.com/mapbox/osm-adiff-parser) library can be used to produce `real-changesets` from OSM augmented diffs (`.osc` files).
 
+## Purpose
+
+The main purpose of this library is to input in [OSMCha](https://osmcha.org) database the OSM tags that were affected by a changeset. That way, users will be able to query OSMCha with key/value tag combinations.
+
 ## How it works
 
 It uses two logics to determine the tags that will be included in the result.
