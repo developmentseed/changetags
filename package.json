@@ -1,7 +1,11 @@
 {
   "name": "changetags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "yarn@3.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developmentseed/changetags"
+  },
   "source": "src/index.js",
   "main": "dist/main.js",
   "module": "dist/module.js",
@@ -12,9 +16,9 @@
     "prettier": "prettier --write --ignore-unknown ."
   },
   "devDependencies": {
-    "jest": "^27.5.1",
+    "jest": "^28.0.3",
     "parcel": "^2.5.0",
-    "prettier": "2.5.1"
+    "prettier": "2.6.2"
   },
   "description": "List the tags added, modified or deleted by a OpenStreetMap changeset",
   "license": "MIT"

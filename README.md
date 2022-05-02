@@ -19,6 +19,7 @@ It uses two logics to determine the tags that will be included in the result.
 On features that were created or deleted in a changeset, it includes only the main tags ([check the list](./scr/mainTags.json)).
 
 #### Examples:
+
 - Changeset that added a new `building` with the following tags:
 
 ```
@@ -47,6 +48,7 @@ will have only `highway=primary` as the result.
 We include the main tags of the modified features and also the tags that were modified.
 
 #### Examples
+
 - Changeset that modified the tags of a `bank` from:
 
 ```
@@ -54,7 +56,9 @@ amenity=bank
 name=Unicaja Banco
 operator=unicaja
 ```
+
 to
+
 ```
 brand=Unicaja Banco
 brand:wikidata=Q2543704

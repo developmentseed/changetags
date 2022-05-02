@@ -28,7 +28,13 @@ describe("createTagDiff", () => {
     expect(createTagDiff(changeset4)).toEqual({
       amenity: ["restaurant"],
       entrance: ["yes"],
-      highway: ["service", "tertiary", "secondary_link", "street_lamp", "footway"],
+      highway: [
+        "service",
+        "tertiary",
+        "secondary_link",
+        "street_lamp",
+        "footway",
+      ],
       short_name: ["CNBB"],
       surface: ["asphalt", "paved"],
       wikidata: ["Q3686567"],
