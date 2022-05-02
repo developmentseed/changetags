@@ -1,12 +1,13 @@
 {
   "name": "changetags",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "packageManager": "yarn@3.2.0",
   "source": "src/index.js",
   "main": "dist/main.js",
   "module": "dist/module.js",
   "scripts": {
     "build": "parcel build",
+    "prepublish": "yarn build",
     "test": "jest test/*",
     "prettier": "prettier --write --ignore-unknown ."
   },
