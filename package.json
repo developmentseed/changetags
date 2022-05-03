@@ -1,6 +1,6 @@
 {
   "name": "changetags",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "packageManager": "yarn@3.2.0",
   "repository": {
     "type": "git",
@@ -11,7 +11,6 @@
   "module": "dist/module.js",
   "scripts": {
     "build": "parcel build",
-    "prepublish": "yarn build",
     "test": "jest test/*",
     "prettier": "prettier --write --ignore-unknown ."
   },
