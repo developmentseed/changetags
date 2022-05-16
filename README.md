@@ -1,5 +1,7 @@
 # changetags
 
+[![npm version](https://badge.fury.io/js/changetags.svg)](https://badge.fury.io/js/changetags)
+
 List the tags added, modified or deleted by an OpenStreetMap changeset.
 
 It needs to receive the data in the `real-changesets` format ([example of a real-changesets file](https://s3.amazonaws.com/mapbox/real-changesets/production/118466156.json)).
