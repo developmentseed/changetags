@@ -18,7 +18,7 @@ It uses two logics to determine the tags that will be included in the result.
 
 ### Created and deleted features
 
-On features that were created or deleted in a changeset, it includes only the main tags ([check the list](./scr/mainTags.json)).
+On features that were created or deleted in a changeset, it includes only the main tags ([check the list](./src/mainTags.json)).
 
 #### Examples:
 
